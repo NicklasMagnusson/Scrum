@@ -10,6 +10,7 @@ namespace Scrum {
 
         static void Main(string[] args) {
             Console.WriteLine(Namn);
+            Console.WriteLine("hej");
         }
     }
 }
