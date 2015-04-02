@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace Scrum {
     class Program {
-        public static string Namn { get; set; }
+        public static string Name { get; set; }
 
         static void Main(string[] args) {
-            Console.WriteLine(Namn);
             Console.WriteLine("hej");
+            Console.WriteLine(Name);
         }
     }
 }
