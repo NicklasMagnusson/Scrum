@@ -11,6 +11,9 @@ namespace Scrum {
         static void Main(string[] args) {
             Console.WriteLine("hej");
             Console.WriteLine(Name);
+            for (var i = 0; i < 10; i++) {
+                Console.WriteLine(i);
+            }
         }
     }
 }
