@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Scrum {
     class Program {
+        public string Namn { get; set; }
         static void Main(string[] args) {
         }
     }
