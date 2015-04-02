@@ -6,9 +6,10 @@ using System.Threading.Tasks;
 
 namespace Scrum {
     class Program {
-        public static string Name { get; set; }
+        public static string Namn { get; set; }
+
         static void Main(string[] args) {
-            Console.WriteLine(Name);
+            Console.WriteLine(Namn);
         }
     }
 }
